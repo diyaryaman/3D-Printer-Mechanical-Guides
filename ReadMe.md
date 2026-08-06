@@ -1,6 +1,7 @@
 # Vref Adjustment Guide
 
 ## Purpose
+![Uploading image.png…]()
 
 This guide explains how to safely adjust the **Vref (Reference Voltage)** of the four stepper driver channels.
 
