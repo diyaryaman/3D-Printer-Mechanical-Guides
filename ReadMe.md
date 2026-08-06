@@ -1,7 +1,7 @@
 # Vref Adjustment Guide
 
 ## Purpose
-[![Uploading image.png…]()](https://github.com/diyaryaman/3D-Printer-Mechanical-Guides/blob/main/image.png)
+![Vref measurement](/image.png)
 
 This guide explains how to safely adjust the **Vref (Reference Voltage)** of the four stepper driver channels.
 
